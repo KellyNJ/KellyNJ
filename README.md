@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Noah Kelly (@KellyNJ)
+- 👀 I’m interested in all things computer science and logic based
+- 🌱 I’m currently learning how networks and databases work
+- 📫 You can reach me via Linkedin Messenger (https://www.linkedin.com/in/noah-kelly-77642928b/)
+- ⚡ Fun fact: Outside of programming, I have a deep passion for music theory
